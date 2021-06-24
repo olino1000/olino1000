@@ -19,8 +19,8 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 **Languages and Tools:**  
 
-<code><img height="20" src="kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c83fd669f3.8573646215215350398782.jpg"></code>
-<code><img height="20" src="png-transparent-responsive-web-design-web-development-cascading-style-sheets-css3-web-design-blue-angle-web-design.png"></code>
+<code><img height="20" src="https://github.com/olino1000/olino1000/blob/357648bcb01c2a2ce686eb234cd51884c7cedfd2/html5.jpg"></code>
+<code><img height="20" src="https://github.com/olino1000/olino1000/blob/357648bcb01c2a2ce686eb234cd51884c7cedfd2/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
