@@ -2,17 +2,14 @@
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-olino/">
   <img align="left" alt="Vini Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/22l3n7vyptzu5hsojx2epqxgi?si=1d91c2615e5841a0">
-  <img align="left" alt="Vini Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br />
 
 <br />
 
-Hi, I'm Vinícius Olino, a passionate self-taught Front end developer from Brazil. Enthusiastic about technology, with experience in startups and usability. Dedicated, willing to learn and evolve always.
+Hey, I'm Vinícius Olino, a passionate self-taught Front end developer from Brazil. I am enthusiastic about technology, with experience in startups and usability. Dedicated and willing to learn and evolve always.
 
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happen through open-source.
 
 
   
