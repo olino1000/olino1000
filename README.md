@@ -7,7 +7,7 @@
 
 <br />
 
-Hey, I'm Vinícius Olino, a passionate self-taught Front end developer from Brazil. I am enthusiastic about technology, with experience in startups and usability. Dedicated and willing to learn and evolve always.
+Hey, I'm Vinícius Olino, a passionate self-taught front end developer from Brazil. I am enthusiastic about technology, with experience in startups and usability. I am dedicated and willing to learn and evolve always.
 
 I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happen through open-source.
 
