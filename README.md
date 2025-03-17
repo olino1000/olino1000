@@ -11,6 +11,8 @@ Hey, I'm Vinícius Olino, a passionate self-taught front end developer from Braz
 
 I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happen through open-source.
 
+I started some projects using LLM and IA to better learn and enter this world of new knowledge that i like a lot!
+
 
   
 
