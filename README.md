@@ -11,7 +11,7 @@ Hey, I'm Vinícius Olino, a passionate self-taught front-end developer from Braz
 
 I learned a lot from the open-source community, and I love how collaboration and knowledge-sharing happen through open-source.
 
-I started some projects using Deep Learning, LLM, and IA to better learn and enter this world of new knowledge that I like a lot!
+I started some projects using Solidity and Hardhat to enter the web3 world!
 
 
   
